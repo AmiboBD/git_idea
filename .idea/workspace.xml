@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f0cbc914-c00b-403c-9518-4ea34d37989d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="ed51ac40aaa7cbfe854ffd1e6666353fd12e1015" />
+      </map>
+    </option>
+    <option name="RECENT_COMMON_BRANCH" value="master" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/sofeware/developtool/maven/apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1xzf5t8FMOTzwVgQITTIhxxfhhY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager">
+    <configuration name="GitTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.git.GitTest" />
+      <module name="git_idea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.git.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GitTest" />
+        <item itemvalue="Application.GitTest" />
+        <item itemvalue="Application.GitTest" />
+        <item itemvalue="Application.GitTest" />
+        <item itemvalue="Application.GitTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f0cbc914-c00b-403c-9518-4ea34d37989d" name="Default Changelist" comment="" />
+      <created>1631362657341</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631362657341</updated>
+      <workItem from="1631362660415" duration="1093000" />
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1631363046223</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1631363046223</updated>
+    </task>
+    <task id="LOCAL-00002" summary="second commit">
+      <created>1631363129232</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1631363129232</updated>
+    </task>
+    <task id="LOCAL-00003" summary="third commit">
+      <created>1631363164700</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1631363164700</updated>
+    </task>
+    <task id="LOCAL-00004" summary="hot-fix commit1">
+      <created>1631363698203</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1631363698203</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <MESSAGE value="second commit" />
+    <MESSAGE value="third commit" />
+    <MESSAGE value="hot-fix commit1" />
+    <option name="LAST_COMMIT_MESSAGE" value="hot-fix commit1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="770" y="11" key="CommitChangelistDialog2" timestamp="1631363697545">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="770" y="11" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1631363697545" />
+    <state x="966" y="159" key="FileChooserDialogImpl" timestamp="1631362818532">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="966" y="159" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1631362818532" />
+    <state width="666" height="210" key="GridCell.Tab.0.bottom" timestamp="1631363171999">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="666" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1631363171999" />
+    <state width="666" height="210" key="GridCell.Tab.0.center" timestamp="1631363171999">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="666" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1631363171999" />
+    <state width="666" height="210" key="GridCell.Tab.0.left" timestamp="1631363171999">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="666" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1631363171999" />
+    <state width="666" height="210" key="GridCell.Tab.0.right" timestamp="1631363171999">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="666" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1631363171999" />
+    <state x="408" y="1" key="SettingsEditor" timestamp="1631362732957">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="408" y="1" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1631362732957" />
+  </component>
+</project>
