@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("push commit test");
         System.out.println("remote modify");
         System.out.println("local modify");
+        System.out.println("local modify2");
     }
 }
