@@ -8,6 +8,7 @@ public class GitTest {
         System.out.println("HelloGit5");
         System.out.println("HelloGit4");
         System.out.println("push commit test");
+        System.out.println("remote modify");
         System.out.println("local modify");
     }
 }
